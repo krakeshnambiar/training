@@ -1,2 +1,2 @@
 # training
-Training deleted
+Training can be deleted
